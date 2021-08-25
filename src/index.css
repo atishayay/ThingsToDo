@@ -13,6 +13,7 @@ body {
 
 .collection-item{
   background: #fff;
+  text-align: center;
 }
 
 .collection-item span:hover{
